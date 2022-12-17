@@ -26,5 +26,5 @@ I don't have work experience yet
 ***
 ## **Languages:**
 * A1 (I learn English every day. I try to improve my english using youtube lessons and applications)
-* C2 -Russian language
-* B1 -Belorussian language
+* C2 - Russian language
+* B1 - Belorussian language
