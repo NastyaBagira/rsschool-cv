@@ -24,5 +24,7 @@ Rs-School course [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/) (
 ## **Experience**
 I don't have work experience yet
 ***
-## **English level**
-A1 (I learn English every day. I try to improve my english using youtube lessons and applications)
+## **Languages:**
+* A1 (I learn English every day. I try to improve my english using youtube lessons and applications)
+* C2 -Russian language
+* B1 -Belorussian language
