@@ -18,3 +18,10 @@ My career started as an economist. I was a department head for 8 years. I came t
   a * b
 }`
 ***
+## **Experience**
+***
+## **Education**
+Rs-School course [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/) (in process)
+***
+## **English level**
+A1 (I learn English every day. I try to improve my english using youtube lessons and applications)
