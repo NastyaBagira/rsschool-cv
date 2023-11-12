@@ -29,3 +29,19 @@ My career started as an economist. I was a department head for 8 years. I came t
 * JavaScript Basics
 
 ***
+
+## **Code Example:**
+
+`const countChars = (text, char) => {
+  let i = 0;
+  let count = 0;
+
+  while (i < text.length) {
+    if (text[i].toLowerCase() === char.toLowerCase()) {
+        count = count + 1;
+  }
+    i = i + 1;
+  }
+  return count;
+};`
+***
