@@ -45,3 +45,20 @@ My career started as an economist. I was a department head for 8 years. I came t
   return count;
 };`
 ***
+
+## **Experience**
+
+Unfortunately, I don't have any experience yet. I am a student.
+***
+
+## **Education**
+
+Rs-School course [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+***
+
+## **Languages:**
+
+* Russian language - native speaker
+* Belorussian language - native speaker
+* English language - A2
+* Polish language - B1
