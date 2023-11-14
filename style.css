@@ -19,6 +19,7 @@ a {
 
 a:hover {
   color: black;
+  transition: all 0.3s ease-in-out;
 }
 
 .wrapper__content {
@@ -45,42 +46,6 @@ a:hover {
   cursor: pointer;
 }
 
-/* Footer style*/
-.footer {
-  background: #74645a;
-  color: bisque;
-  padding: 10px 10px;
-  font-size: 1.1rem;
-}
-
-.footer>ul {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.footer__link {
-  text-decoration: none;
-  color: bisque;
-  display: flex;
-}
-
-.footer__image,
-.footer__imageRS {
-  margin-right: 5px;
-}
-
-.footer__image {
-  width: 20px;
-  height: 20px;
-}
-
-.footer__imageRS {
-  width: 40px;
-  height: 20px;
-}
 
 /* Main and aside*/
 .content {
@@ -166,4 +131,45 @@ a:hover {
 
 .wrapper__main div {
   width: 100%;
+}
+
+/* Footer style*/
+.footer {
+  background: #74645a;
+  color: bisque;
+  padding: 10px 10px;
+  font-size: 1.1rem;
+}
+
+.footer>ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: bisque;
+  display: flex;
+}
+
+.footer__link:hover {
+  transition: all 0.4s ease-in-out;
+}
+
+.footer__image,
+.footer__imageRS {
+  margin-right: 5px;
+}
+
+.footer__image {
+  width: 20px;
+  height: 20px;
+}
+
+.footer__imageRS {
+  width: 40px;
+  height: 20px;
 }
