@@ -46,6 +46,10 @@ a:hover {
   cursor: pointer;
 }
 
+.header__nav ul li:hover {
+  color: black;
+  transition: all .5s ease-in-out;
+}
 
 /* Main and aside*/
 .content {
